@@ -1,0 +1,1937 @@
+{
+  "doctors": [
+    {
+      "id": "doc-1",
+      "name": "Dr. Rajesh Rao",
+      "avatar": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=600&q=80",
+      "qualification": "MBBS, MD (Cardiology), FACC",
+      "specialization": "Cardiologist",
+      "experienceYears": 16,
+      "hospitalId": "hosp-1",
+      "hospitalName": "Apollo Hospital, Bannerghatta",
+      "consultationFee": 900,
+      "isAvailable": true,
+      "rating": 4.9,
+      "reviewsCount": 142,
+      "about": "Senior Interventional Cardiologist specializing in complex coronary interventions, heart failure management, and preventive cardiovascular care.",
+      "availableDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "timeSlots": [
+        "09:00 AM",
+        "10:00 AM",
+        "11:30 AM",
+        "02:00 PM",
+        "04:30 PM"
+      ],
+      "education": [
+        "MBBS - Bangalore Medical College",
+        "MD - AIIMS New Delhi",
+        "Fellowship - Cleveland Clinic"
+      ],
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ]
+    },
+    {
+      "id": "doc-2",
+      "name": "Dr. Priya Nambiar",
+      "avatar": "https://images.unsplash.com/photo-1594824813680-4966d54d2417?auto=format&fit=crop&w=600&q=80",
+      "qualification": "MBBS, DM (Neurology)",
+      "specialization": "Neurologist",
+      "experienceYears": 12,
+      "hospitalId": "hosp-2",
+      "hospitalName": "Manipal Hospital, Old Airport Rd",
+      "consultationFee": 1000,
+      "isAvailable": true,
+      "rating": 4.8,
+      "reviewsCount": 98,
+      "about": "Expert in neuro-diagnostics, stroke recovery, epilepsy management, migraine therapy, and neuro-rehabilitation.",
+      "availableDays": [
+        "Monday",
+        "Wednesday",
+        "Thursday",
+        "Saturday"
+      ],
+      "timeSlots": [
+        "09:30 AM",
+        "11:00 AM",
+        "02:30 PM",
+        "03:45 PM"
+      ],
+      "education": [
+        "MBBS - Kasturba Medical College",
+        "DM - NIMHANS Bangalore"
+      ],
+      "languages": [
+        "English",
+        "Kannada",
+        "Malayalam"
+      ]
+    },
+    {
+      "id": "doc-3",
+      "name": "Dr. Arvind Swamy",
+      "avatar": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&w=600&q=80",
+      "qualification": "MBBS, MD (General Medicine)",
+      "specialization": "General Physician",
+      "experienceYears": 18,
+      "hospitalId": "hosp-1",
+      "hospitalName": "Apollo Hospital, Bannerghatta",
+      "consultationFee": 650,
+      "isAvailable": true,
+      "rating": 4.9,
+      "reviewsCount": 230,
+      "about": "Primary care clinician focused on chronic disease management, diabetes, hypertensive disorders, infectious diseases, and lifestyle wellness.",
+      "availableDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "timeSlots": [
+        "08:30 AM",
+        "10:15 AM",
+        "11:45 AM",
+        "03:00 PM",
+        "05:00 PM"
+      ],
+      "education": [
+        "MBBS - Mysore Medical College",
+        "MD - St. John’s National Academy"
+      ],
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi",
+        "Tamil"
+      ]
+    },
+    {
+      "id": "doc-4",
+      "name": "Dr. Sunita Deshmukh",
+      "avatar": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=600&q=80",
+      "qualification": "MBBS, MD (Dermatology, Venereology & Leprosy)",
+      "specialization": "Dermatologist",
+      "experienceYears": 11,
+      "hospitalId": "hosp-3",
+      "hospitalName": "Fortis Hospital, Cunningham Rd",
+      "consultationFee": 750,
+      "isAvailable": true,
+      "rating": 4.7,
+      "reviewsCount": 88,
+      "about": "Specialist in clinical dermatology, acne therapies, pediatric skin care, autoimmune dermatoses, and laser skin treatments.",
+      "availableDays": [
+        "Tuesday",
+        "Wednesday",
+        "Friday",
+        "Saturday"
+      ],
+      "timeSlots": [
+        "10:00 AM",
+        "11:30 AM",
+        "01:30 PM",
+        "04:00 PM"
+      ],
+      "education": [
+        "MBBS - JJM Medical College",
+        "MD - Christian Medical College Vellore"
+      ],
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi",
+        "Marathi"
+      ]
+    },
+    {
+      "id": "doc-5",
+      "name": "Dr. Vikramaditya Patil",
+      "avatar": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&w=600&q=80",
+      "qualification": "MBBS, MS (Orthopedics), MCh",
+      "specialization": "Orthopedic",
+      "experienceYears": 15,
+      "hospitalId": "hosp-4",
+      "hospitalName": "Aster CMI Hospital, Hebbal",
+      "consultationFee": 850,
+      "isAvailable": true,
+      "rating": 4.9,
+      "reviewsCount": 167,
+      "about": "Joint replacement, arthroscopy, ligament reconstruction, and sports medicine injury recovery specialist.",
+      "availableDays": [
+        "Monday",
+        "Tuesday",
+        "Thursday",
+        "Friday"
+      ],
+      "timeSlots": [
+        "09:00 AM",
+        "11:00 AM",
+        "02:00 PM",
+        "04:00 PM"
+      ],
+      "education": [
+        "MBBS - Belagavi Institute of Medical Sciences",
+        "MS - PGIMER Chandigarh"
+      ],
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ]
+    },
+    {
+      "id": "doc-6",
+      "name": "Dr. Ananya Hegde",
+      "avatar": "https://images.unsplash.com/photo-1594824813712-42111bb3b67e?auto=format&fit=crop&w=600&q=80",
+      "qualification": "MBBS, DCH, DNB (Pediatrics)",
+      "specialization": "Pediatrician",
+      "experienceYears": 10,
+      "hospitalId": "hosp-1",
+      "hospitalName": "Apollo Hospital, Bannerghatta",
+      "consultationFee": 700,
+      "isAvailable": true,
+      "rating": 4.95,
+      "reviewsCount": 215,
+      "about": "Compassionate pediatric specialist caring for newborn health, pediatric nutrition, growth milestones, immunizations, and asthma.",
+      "availableDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "timeSlots": [
+        "09:00 AM",
+        "10:30 AM",
+        "12:00 PM",
+        "03:30 PM",
+        "05:30 PM"
+      ],
+      "education": [
+        "MBBS - KIMS Hubballi",
+        "DNB - Rainbow Children Hospital"
+      ],
+      "languages": [
+        "English",
+        "Kannada",
+        "Telugu"
+      ]
+    },
+    {
+      "id": "doc-7",
+      "name": "Dr. Meera Chandrasekhar",
+      "avatar": "https://images.unsplash.com/photo-1623854767648-e7bb8009f0db?auto=format&fit=crop&w=600&q=80",
+      "qualification": "MBBS, MS (OBG), FICOG",
+      "specialization": "Gynecologist",
+      "experienceYears": 14,
+      "hospitalId": "hosp-2",
+      "hospitalName": "Manipal Hospital, Old Airport Rd",
+      "consultationFee": 850,
+      "isAvailable": true,
+      "rating": 4.85,
+      "reviewsCount": 174,
+      "about": "High-risk obstetrics, laparoscopic gynecological surgery, PCOS management, and adolescent reproductive wellness.",
+      "availableDays": [
+        "Monday",
+        "Wednesday",
+        "Friday",
+        "Saturday"
+      ],
+      "timeSlots": [
+        "10:00 AM",
+        "11:30 AM",
+        "02:00 PM",
+        "03:30 PM"
+      ],
+      "education": [
+        "MBBS - Bangalore Medical College",
+        "MS - Madras Medical College"
+      ],
+      "languages": [
+        "English",
+        "Kannada",
+        "Tamil",
+        "Hindi"
+      ]
+    },
+    {
+      "id": "doc-8",
+      "name": "Dr. Karthik Sunder",
+      "avatar": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?auto=format&fit=crop&w=600&q=80",
+      "qualification": "BDS, MDS (Oral & Maxillofacial Surgery)",
+      "specialization": "Dentist",
+      "experienceYears": 9,
+      "hospitalId": "hosp-3",
+      "hospitalName": "Fortis Hospital, Cunningham Rd",
+      "consultationFee": 550,
+      "isAvailable": true,
+      "rating": 4.75,
+      "reviewsCount": 76,
+      "about": "Advanced restorative dentistry, surgical extractions, dental implants, root canal therapy, and smile designing.",
+      "availableDays": [
+        "Monday",
+        "Tuesday",
+        "Thursday",
+        "Saturday"
+      ],
+      "timeSlots": [
+        "09:30 AM",
+        "11:00 AM",
+        "03:00 PM",
+        "04:30 PM"
+      ],
+      "education": [
+        "BDS - SDM Dental College Dharwad",
+        "MDS - Government Dental College Bangalore"
+      ],
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ]
+    },
+    {
+      "id": "doc-9",
+      "name": "Dr. Sanjay Kulkarni",
+      "avatar": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=600&q=80",
+      "qualification": "MBBS, MS (ENT), DLO",
+      "specialization": "ENT Specialist",
+      "experienceYears": 13,
+      "hospitalId": "hosp-4",
+      "hospitalName": "Aster CMI Hospital, Hebbal",
+      "consultationFee": 700,
+      "isAvailable": true,
+      "rating": 4.8,
+      "reviewsCount": 110,
+      "about": "Endoscopic sinus surgery, microscopic ear surgeries, sleep apnea management, and voice disorders.",
+      "availableDays": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "timeSlots": [
+        "10:00 AM",
+        "12:00 PM",
+        "02:30 PM",
+        "04:00 PM"
+      ],
+      "education": [
+        "MBBS - Karnataka Institute of Medical Sciences",
+        "MS - Grant Medical College Mumbai"
+      ],
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi",
+        "Marathi"
+      ]
+    },
+    {
+      "id": "doc-10",
+      "name": "Dr. Shalini Murthy",
+      "avatar": "https://images.unsplash.com/photo-1651008376811-b90baee60c1f?auto=format&fit=crop&w=600&q=80",
+      "qualification": "MBBS, MS (Ophthalmology)",
+      "specialization": "Ophthalmologist",
+      "experienceYears": 12,
+      "hospitalId": "hosp-1",
+      "hospitalName": "Apollo Hospital, Bannerghatta",
+      "consultationFee": 650,
+      "isAvailable": true,
+      "rating": 4.88,
+      "reviewsCount": 128,
+      "about": "Cataract micro-phacoemulsification, glaucoma assessment, diabetic retinopathy screening, and refractive cornea management.",
+      "availableDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Friday"
+      ],
+      "timeSlots": [
+        "09:00 AM",
+        "10:30 AM",
+        "01:30 PM",
+        "03:30 PM"
+      ],
+      "education": [
+        "MBBS - Father Muller Medical College",
+        "MS - Sankara Nethralaya Chennai"
+      ],
+      "languages": [
+        "English",
+        "Kannada",
+        "Tamil"
+      ]
+    },
+    {
+      "id": "doc-11",
+      "name": "Dr. Vinay Bharadwaj",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&q=80",
+      "qualification": "MBBS, MD (Emergency Medicine)",
+      "specialization": "Emergency Medicine",
+      "experienceYears": 8,
+      "hospitalId": "hosp-1",
+      "hospitalName": "Apollo Hospital, Bannerghatta",
+      "consultationFee": 800,
+      "isAvailable": true,
+      "rating": 4.9,
+      "reviewsCount": 94,
+      "about": "Acute trauma resuscitation, cardiac emergency stabilization, toxicology, and intensive bedside triage.",
+      "availableDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "timeSlots": [
+        "08:00 AM",
+        "12:00 PM",
+        "04:00 PM",
+        "08:00 PM"
+      ],
+      "education": [
+        "MBBS - JSS Medical College Mysuru",
+        "MD - AIIMS Rishikesh"
+      ],
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ]
+    },
+    {
+      "id": "doc-12",
+      "name": "Dr. Harini Gowda",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=600&q=80",
+      "qualification": "MBBS, DM (Medical Oncology)",
+      "specialization": "Oncologist",
+      "experienceYears": 14,
+      "hospitalId": "hosp-2",
+      "hospitalName": "Manipal Hospital, Old Airport Rd",
+      "consultationFee": 1200,
+      "isAvailable": true,
+      "rating": 4.92,
+      "reviewsCount": 84,
+      "about": "Immunotherapy, targeted cancer molecular therapy, chemotherapy protocols, and comprehensive palliative patient oncology.",
+      "availableDays": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ],
+      "timeSlots": [
+        "10:00 AM",
+        "11:45 AM",
+        "02:00 PM",
+        "03:45 PM"
+      ],
+      "education": [
+        "MBBS - Bangalore Medical College",
+        "DM - Tata Memorial Hospital Mumbai"
+      ],
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ]
+    },
+    {
+      "id": "doc-13",
+      "name": "Dr. Chetan Prasad",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=600&q=80",
+      "qualification": "MBBS, MD (General Medicine)",
+      "specialization": "General Physician",
+      "experienceYears": 7,
+      "hospitalId": "hosp-3",
+      "hospitalName": "Fortis Hospital, Cunningham Rd",
+      "consultationFee": 600,
+      "isAvailable": true,
+      "rating": 4.65,
+      "reviewsCount": 52,
+      "about": "Focuses on acute viral illnesses, preventive health checkups, thyroid wellness, and geriatric health assessment.",
+      "availableDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Saturday"
+      ],
+      "timeSlots": [
+        "09:00 AM",
+        "11:00 AM",
+        "02:00 PM",
+        "04:00 PM"
+      ],
+      "education": [
+        "MBBS - Mandya Institute of Medical Sciences",
+        "MD - Victoria Hospital"
+      ],
+      "languages": [
+        "English",
+        "Kannada"
+      ]
+    },
+    {
+      "id": "doc-14",
+      "name": "Dr. Divya Ramesh",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=600&q=80",
+      "qualification": "MBBS, MD (Pediatrics)",
+      "specialization": "Pediatrician",
+      "experienceYears": 9,
+      "hospitalId": "hosp-4",
+      "hospitalName": "Aster CMI Hospital, Hebbal",
+      "consultationFee": 650,
+      "isAvailable": true,
+      "rating": 4.82,
+      "reviewsCount": 114,
+      "about": "Childhood infections, developmental screening, adolescent health guidance, and allergen sensitivity management.",
+      "availableDays": [
+        "Tuesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "timeSlots": [
+        "10:30 AM",
+        "12:00 PM",
+        "03:00 PM",
+        "05:00 PM"
+      ],
+      "education": [
+        "MBBS - Kempegowda Institute of Medical Sciences",
+        "MD - Indira Gandhi Institute"
+      ],
+      "languages": [
+        "English",
+        "Kannada",
+        "Tamil"
+      ]
+    },
+    {
+      "id": "doc-15",
+      "name": "Dr. Ashok Varma",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=600&q=80",
+      "qualification": "MBBS, MS (Orthopedics)",
+      "specialization": "Orthopedic",
+      "experienceYears": 20,
+      "hospitalId": "hosp-1",
+      "hospitalName": "Apollo Hospital, Bannerghatta",
+      "consultationFee": 950,
+      "isAvailable": true,
+      "rating": 4.96,
+      "reviewsCount": 280,
+      "about": "Senior orthopedic surgeon specializing in robotic knee/hip replacement, spine alignment, and complex fracture healing.",
+      "availableDays": [
+        "Monday",
+        "Tuesday",
+        "Thursday",
+        "Friday"
+      ],
+      "timeSlots": [
+        "09:30 AM",
+        "11:30 AM",
+        "02:00 PM",
+        "03:30 PM"
+      ],
+      "education": [
+        "MBBS - Mysore Medical College",
+        "MS - Seth GS Medical College Mumbai"
+      ],
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ]
+    },
+    {
+      "id": "doc-16",
+      "name": "Dr. Kavita Joshi (On Leave)",
+      "avatar": "https://images.unsplash.com/photo-1594824813608-410a6230f8ca?auto=format&fit=crop&w=600&q=80",
+      "qualification": "MBBS, DM (Cardiology)",
+      "specialization": "Cardiologist",
+      "experienceYears": 13,
+      "hospitalId": "hosp-2",
+      "hospitalName": "Manipal Hospital, Old Airport Rd",
+      "consultationFee": 950,
+      "isAvailable": false,
+      "rating": 4.88,
+      "reviewsCount": 104,
+      "about": "Currently on academic clinical leave for International Cardiac Symposium. Resumes OPD consultation shortly.",
+      "availableDays": [
+        "Monday",
+        "Thursday"
+      ],
+      "timeSlots": [
+        "10:00 AM",
+        "02:00 PM"
+      ],
+      "education": [
+        "MBBS - BIMS Belagavi",
+        "DM - Sri Jayadeva Institute"
+      ],
+      "languages": [
+        "English",
+        "Kannada",
+        "Marathi"
+      ]
+    },
+    {
+      "id": "doc-17",
+      "name": "Dr. Siddharth Nair (On Leave)",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=600&q=80",
+      "qualification": "MBBS, MCh (Neurosurgery)",
+      "specialization": "Neurologist",
+      "experienceYears": 17,
+      "hospitalId": "hosp-3",
+      "hospitalName": "Fortis Hospital, Cunningham Rd",
+      "consultationFee": 1100,
+      "isAvailable": false,
+      "rating": 4.91,
+      "reviewsCount": 156,
+      "about": "On conference leave until end of week. Emergency neurosurgical cover available via Hospital ER.",
+      "availableDays": [
+        "Tuesday",
+        "Friday"
+      ],
+      "timeSlots": [
+        "11:00 AM",
+        "03:00 PM"
+      ],
+      "education": [
+        "MBBS - Calicut Medical College",
+        "MCh - AIIMS New Delhi"
+      ],
+      "languages": [
+        "English",
+        "Malayalam",
+        "Kannada"
+      ]
+    },
+    {
+      "id": "doc-18",
+      "name": "Dr. Rekha Bansal (On Leave)",
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=600&q=80",
+      "qualification": "MBBS, DDVL (Dermatology)",
+      "specialization": "Dermatologist",
+      "experienceYears": 10,
+      "hospitalId": "hosp-1",
+      "hospitalName": "Apollo Hospital, Bannerghatta",
+      "consultationFee": 700,
+      "isAvailable": false,
+      "rating": 4.7,
+      "reviewsCount": 65,
+      "about": "Currently on scheduled medical sabbatical. Reopening consultation booking next week.",
+      "availableDays": [
+        "Wednesday",
+        "Saturday"
+      ],
+      "timeSlots": [
+        "09:30 AM",
+        "01:30 PM"
+      ],
+      "education": [
+        "MBBS - SMS Medical College Jaipur",
+        "DDVL - BMCRI Bangalore"
+      ],
+      "languages": [
+        "English",
+        "Hindi",
+        "Kannada"
+      ]
+    },
+    {
+      "id": "doc-19",
+      "name": "Dr. Tejaswini Rao (On Leave)",
+      "avatar": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?auto=format&fit=crop&w=600&q=80",
+      "qualification": "MBBS, MS (ENT)",
+      "specialization": "ENT Specialist",
+      "experienceYears": 11,
+      "hospitalId": "hosp-4",
+      "hospitalName": "Aster CMI Hospital, Hebbal",
+      "consultationFee": 650,
+      "isAvailable": false,
+      "rating": 4.79,
+      "reviewsCount": 79,
+      "about": "On personal leave. OPD booking opens for subsequent cycle.",
+      "availableDays": [
+        "Monday",
+        "Wednesday"
+      ],
+      "timeSlots": [
+        "10:00 AM",
+        "02:00 PM"
+      ],
+      "education": [
+        "MBBS - Mysore Medical College",
+        "MS - KMC Manipal"
+      ],
+      "languages": [
+        "English",
+        "Kannada"
+      ]
+    },
+    {
+      "id": "doc-20",
+      "name": "Dr. Raghuveer Shetty (On Leave)",
+      "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=600&q=80",
+      "qualification": "BDS, MDS (Prosthodontics)",
+      "specialization": "Dentist",
+      "experienceYears": 8,
+      "hospitalId": "hosp-2",
+      "hospitalName": "Manipal Hospital, Old Airport Rd",
+      "consultationFee": 600,
+      "isAvailable": false,
+      "rating": 4.68,
+      "reviewsCount": 44,
+      "about": "On clinical research duty. Consultation appointments temporarily unavailable.",
+      "availableDays": [
+        "Tuesday",
+        "Friday"
+      ],
+      "timeSlots": [
+        "11:30 AM",
+        "03:30 PM"
+      ],
+      "education": [
+        "BDS - AB Shetty Memorial Dental",
+        "MDS - RGUHS Bangalore"
+      ],
+      "languages": [
+        "English",
+        "Kannada",
+        "Tulu"
+      ]
+    }
+  ],
+  "hospitals": [
+    {
+      "id": "hosp-1",
+      "role": "hospital",
+      "hospitalName": "Apollo Hospital, Bannerghatta",
+      "email": "admin@apollo-bangalore.carebridge.org",
+      "contactNumber": "+91 80 2630 4050",
+      "address": "154/11, Bannerghatta Main Road, Opposite IIMB, Bengaluru, Karnataka 560076",
+      "district": "Bengaluru Urban",
+      "state": "Karnataka",
+      "registrationDetails": "NABH & JCI Accredited | Reg #KA-HOSP-2007-8891",
+      "emergencyHelpline": "1066 / +91 80 4668 8000",
+      "availableDepartments": [
+        "Cardiology",
+        "General Medicine",
+        "Pediatrics",
+        "Orthopedics",
+        "Emergency Medicine",
+        "Ophthalmology",
+        "Oncology"
+      ],
+      "hasEmergencyUnit": true,
+      "logo": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=600&q=80",
+      "latitude": 12.8988,
+      "longitude": 77.5996,
+      "createdAt": "2026-01-10T08:00:00Z"
+    },
+    {
+      "id": "hosp-fortis-bg",
+      "role": "hospital",
+      "hospitalName": "Fortis Hospital, Bannerghatta Rd",
+      "email": "er@fortis-bannerghatta.carebridge.org",
+      "contactNumber": "+91 80 6621 4444",
+      "address": "154/9, Bannerghatta Road, Opposite IIM-B, Bilekahalli, Bengaluru, Karnataka 560076",
+      "district": "Bengaluru Urban",
+      "state": "Karnataka",
+      "registrationDetails": "JCI Accredited Quaternary Care | Reg #KA-HOSP-2008-6612",
+      "emergencyHelpline": "105 711",
+      "availableDepartments": [
+        "Cardiology",
+        "Emergency Medicine",
+        "Neurology",
+        "Orthopedics",
+        "Pediatrics"
+      ],
+      "hasEmergencyUnit": true,
+      "logo": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=600&q=80",
+      "latitude": 12.8933,
+      "longitude": 77.5985,
+      "createdAt": "2026-01-11T09:00:00Z"
+    },
+    {
+      "id": "hosp-jayadeva",
+      "role": "hospital",
+      "hospitalName": "Jayadeva Institute of Cardiovascular Sciences",
+      "email": "admin@jayadevacardiology.carebridge.org",
+      "contactNumber": "+91 80 2297 7400",
+      "address": "Bannerghatta Main Rd, 9th Block, Jayanagar, Bengaluru, Karnataka 560069",
+      "district": "Bengaluru Urban",
+      "state": "Karnataka",
+      "registrationDetails": "Autonomous Government Cardiac Apex Centre | Reg #KA-HOSP-1984-0012",
+      "emergencyHelpline": "+91 80 2297 7200",
+      "availableDepartments": [
+        "Cardiology",
+        "Cardiac Surgery",
+        "Emergency Medicine",
+        "Pediatric Cardiology"
+      ],
+      "hasEmergencyUnit": true,
+      "logo": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&w=600&q=80",
+      "latitude": 12.918,
+      "longitude": 77.597,
+      "createdAt": "2026-01-11T10:00:00Z"
+    },
+    {
+      "id": "hosp-sagar",
+      "role": "hospital",
+      "hospitalName": "Sagar Hospitals, DSI Campus",
+      "email": "info@sagarhospitals.carebridge.org",
+      "contactNumber": "+91 80 4299 9999",
+      "address": "Shavige Malleshwara Hills, Kumaraswamy Layout, Bengaluru, Karnataka 560078",
+      "district": "Bengaluru Urban",
+      "state": "Karnataka",
+      "registrationDetails": "NABH Multi-Specialty Hospital | Reg #KA-HOSP-2002-4521",
+      "emergencyHelpline": "080 4299 9900",
+      "availableDepartments": [
+        "General Medicine",
+        "Orthopedics",
+        "ENT Specialist",
+        "Emergency Medicine",
+        "Dentist"
+      ],
+      "hasEmergencyUnit": true,
+      "logo": "https://images.unsplash.com/photo-1587351021759-3e566b6af7cc?auto=format&fit=crop&w=600&q=80",
+      "latitude": 12.9095,
+      "longitude": 77.5621,
+      "createdAt": "2026-01-12T08:00:00Z"
+    },
+    {
+      "id": "hosp-cloudnine",
+      "role": "hospital",
+      "hospitalName": "Cloudnine Hospital, Jayanagar",
+      "email": "care@cloudnine.carebridge.org",
+      "contactNumber": "+91 99728 99728",
+      "address": "1533, 9th Main Rd, 3rd Block, Jayanagar, Bengaluru, Karnataka 560011",
+      "district": "Bengaluru Urban",
+      "state": "Karnataka",
+      "registrationDetails": "NABH Maternal & Child Care Speciality | Reg #KA-HOSP-2010-8823",
+      "emergencyHelpline": "080 6792 9999",
+      "availableDepartments": [
+        "Pediatrics",
+        "Gynecology",
+        "Neonatal ICU",
+        "General Medicine"
+      ],
+      "hasEmergencyUnit": true,
+      "logo": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=600&q=80",
+      "latitude": 12.9304,
+      "longitude": 77.5834,
+      "createdAt": "2026-01-13T09:30:00Z"
+    },
+    {
+      "id": "hosp-stjohns",
+      "role": "hospital",
+      "hospitalName": "St. John's Medical College Hospital",
+      "email": "er@stjohns.carebridge.org",
+      "contactNumber": "+91 80 2206 5000",
+      "address": "Sarjapur Main Road, John Nagar, Koramangala, Bengaluru, Karnataka 560034",
+      "district": "Bengaluru Urban",
+      "state": "Karnataka",
+      "registrationDetails": "Tertiary Medical College Hospital | Reg #KA-HOSP-1963-0001",
+      "emergencyHelpline": "+91 80 2206 5100",
+      "availableDepartments": [
+        "Cardiology",
+        "Neurology",
+        "Emergency Medicine",
+        "Orthopedics",
+        "Pediatrics",
+        "Oncology"
+      ],
+      "hasEmergencyUnit": true,
+      "logo": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&w=600&q=80",
+      "latitude": 12.9317,
+      "longitude": 77.6202,
+      "createdAt": "2026-01-14T07:45:00Z"
+    },
+    {
+      "id": "hosp-2",
+      "role": "hospital",
+      "hospitalName": "Manipal Hospital, Old Airport Rd",
+      "email": "helpdesk@manipal.carebridge.org",
+      "contactNumber": "+91 80 2502 4444",
+      "address": "98, HAL Old Airport Rd, Kodihalli, Bengaluru, Karnataka 560017",
+      "district": "Bengaluru Urban",
+      "state": "Karnataka",
+      "registrationDetails": "NABH Accredited Multi-Specialty | Reg #KA-HOSP-1991-3142",
+      "emergencyHelpline": "080 2222 1111",
+      "availableDepartments": [
+        "Neurology",
+        "Gynecology",
+        "Cardiology",
+        "Oncology",
+        "Dental Sciences",
+        "Emergency Medicine"
+      ],
+      "hasEmergencyUnit": true,
+      "logo": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=600&q=80",
+      "latitude": 12.9587,
+      "longitude": 77.6534,
+      "createdAt": "2026-01-12T09:30:00Z"
+    },
+    {
+      "id": "hosp-3",
+      "role": "hospital",
+      "hospitalName": "Fortis Hospital, Cunningham Rd",
+      "email": "info@fortis-cunningham.carebridge.org",
+      "contactNumber": "+91 80 4199 4444",
+      "address": "14, Cunningham Rd, Vasanth Nagar, Bengaluru, Karnataka 560052",
+      "district": "Bengaluru Urban",
+      "state": "Karnataka",
+      "registrationDetails": "NABH Certified Center of Excellence | Reg #KA-HOSP-2006-5521",
+      "emergencyHelpline": "105 711",
+      "availableDepartments": [
+        "Dermatology",
+        "General Medicine",
+        "Dentistry",
+        "Cardiology",
+        "Emergency Medicine"
+      ],
+      "hasEmergencyUnit": true,
+      "logo": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&w=600&q=80",
+      "latitude": 12.9868,
+      "longitude": 77.5954,
+      "createdAt": "2026-01-15T11:00:00Z"
+    },
+    {
+      "id": "hosp-bgs-kengeri",
+      "role": "hospital",
+      "hospitalName": "BGS Gleneagles Global Hospital, Kengeri",
+      "email": "info@bgsgleneagles.carebridge.org",
+      "contactNumber": "+91 80 2625 5555",
+      "address": "67, Uttarahalli Road, Kengeri, Bengaluru, Karnataka 560060",
+      "district": "Bengaluru Urban",
+      "state": "Karnataka",
+      "registrationDetails": "NABH Accredited Multi-Organ Transplant Hospital | Reg #KA-HOSP-2005-7712",
+      "emergencyHelpline": "080 2625 5600",
+      "availableDepartments": [
+        "Oncology",
+        "Cardiology",
+        "Orthopedics",
+        "Emergency Medicine",
+        "Neurology"
+      ],
+      "hasEmergencyUnit": true,
+      "logo": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=600&q=80",
+      "latitude": 12.8994,
+      "longitude": 77.4912,
+      "createdAt": "2026-01-16T10:00:00Z"
+    },
+    {
+      "id": "hosp-narayana-city",
+      "role": "hospital",
+      "hospitalName": "Narayana Health City, Bommasandra",
+      "email": "emergency@narayanahealth.carebridge.org",
+      "contactNumber": "+91 80 7122 2222",
+      "address": "258/A, Bommasandra Industrial Area, Anekal Taluk, Hosur Road, Bengaluru, Karnataka 560099",
+      "district": "Bengaluru Urban",
+      "state": "Karnataka",
+      "registrationDetails": "JCI Accredited Super Specialty Cardiac & Cancer Care | Reg #KA-HOSP-2001-0021",
+      "emergencyHelpline": "080 7122 2200",
+      "availableDepartments": [
+        "Cardiology",
+        "Oncology",
+        "Neurology",
+        "Pediatrics",
+        "Emergency Medicine"
+      ],
+      "hasEmergencyUnit": true,
+      "logo": "https://images.unsplash.com/photo-1587351021759-3e566b6af7cc?auto=format&fit=crop&w=600&q=80",
+      "latitude": 12.8234,
+      "longitude": 77.6891,
+      "createdAt": "2026-01-18T10:00:00Z"
+    },
+    {
+      "id": "hosp-4",
+      "role": "hospital",
+      "hospitalName": "Aster CMI Hospital, Hebbal",
+      "email": "contact@astercmi.carebridge.org",
+      "contactNumber": "+91 80 4342 0100",
+      "address": "No. 43/42, Bellary Rd, NH 44, Sahakar Nagar, Hebbal, Bengaluru, Karnataka 560092",
+      "district": "Bengaluru Urban",
+      "state": "Karnataka",
+      "registrationDetails": "JCI & NABH Accredited Quaternary Care | Reg #KA-HOSP-2014-9912",
+      "emergencyHelpline": "080 4342 0200",
+      "availableDepartments": [
+        "Orthopedics",
+        "ENT Specialist",
+        "Pediatrics",
+        "Neurology",
+        "Emergency Medicine"
+      ],
+      "hasEmergencyUnit": true,
+      "logo": "https://images.unsplash.com/photo-1587351021759-3e566b6af7cc?auto=format&fit=crop&w=600&q=80",
+      "latitude": 13.0583,
+      "longitude": 77.5929,
+      "createdAt": "2026-01-20T14:15:00Z"
+    },
+    {
+      "id": "hosp-manipal-whitefield",
+      "role": "hospital",
+      "hospitalName": "Manipal Hospital, Whitefield",
+      "email": "whitefield@manipal.carebridge.org",
+      "contactNumber": "+91 80 4914 9999",
+      "address": "143, 212-215, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066",
+      "district": "Bengaluru Urban",
+      "state": "Karnataka",
+      "registrationDetails": "NABH Certified Multi-Specialty | Reg #KA-HOSP-2016-3391",
+      "emergencyHelpline": "080 2222 1111",
+      "availableDepartments": [
+        "Cardiology",
+        "General Medicine",
+        "Gynecology",
+        "Pediatrics",
+        "Emergency Medicine"
+      ],
+      "hasEmergencyUnit": true,
+      "logo": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=600&q=80",
+      "latitude": 12.9592,
+      "longitude": 77.7472,
+      "createdAt": "2026-01-21T09:00:00Z"
+    },
+    {
+      "id": "hosp-mvj-hoskote",
+      "role": "hospital",
+      "hospitalName": "MVJ Medical College & Research Hospital, Hoskote",
+      "email": "admin@mvjmc.carebridge.org",
+      "contactNumber": "+91 80 2793 1473",
+      "address": "Dandupalya, Kolathur Post, National Highway 75, Hoskote, Karnataka 562114",
+      "district": "Bengaluru Rural",
+      "state": "Karnataka",
+      "registrationDetails": "NABH Accredited Rural Tertiary Hospital | Reg #KA-HOSP-2001-8841",
+      "emergencyHelpline": "+91 80 2793 1475",
+      "availableDepartments": [
+        "Emergency Medicine",
+        "General Medicine",
+        "Orthopedics",
+        "Pediatrics",
+        "ENT Specialist"
+      ],
+      "hasEmergencyUnit": true,
+      "logo": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=600&q=80",
+      "latitude": 13.0725,
+      "longitude": 77.7981,
+      "createdAt": "2026-01-22T08:30:00Z"
+    },
+    {
+      "id": "hosp-jalappa-kolar",
+      "role": "hospital",
+      "hospitalName": "RL Jalappa Hospital & Research Centre, Kolar",
+      "email": "er@rljalappa.carebridge.org",
+      "contactNumber": "+91 8152 243 003",
+      "address": "Tamaka, Kolar, Karnataka 563103",
+      "district": "Kolar",
+      "state": "Karnataka",
+      "registrationDetails": "NABH Multi-Specialty Teaching Hospital | Reg #KA-HOSP-1997-1249",
+      "emergencyHelpline": "+91 8152 243 112",
+      "availableDepartments": [
+        "Emergency Medicine",
+        "Cardiology",
+        "General Medicine",
+        "Orthopedics",
+        "Dermatology"
+      ],
+      "hasEmergencyUnit": true,
+      "logo": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&w=600&q=80",
+      "latitude": 13.136,
+      "longitude": 78.139,
+      "createdAt": "2026-01-23T10:00:00Z"
+    },
+    {
+      "id": "hosp-tumkur",
+      "role": "hospital",
+      "hospitalName": "Shridevi Institute of Medical Sciences, Tumakuru",
+      "email": "info@shridevimedical.carebridge.org",
+      "contactNumber": "+91 816 221 2121",
+      "address": "NH 4, Maralenahalli, Sira Road, Tumakuru, Karnataka 572106",
+      "district": "Tumakuru",
+      "state": "Karnataka",
+      "registrationDetails": "NABH Accredited 800-Bed Tertiary Hospital | Reg #KA-HOSP-2012-4411",
+      "emergencyHelpline": "+91 816 221 2100",
+      "availableDepartments": [
+        "General Medicine",
+        "Cardiology",
+        "Pediatrics",
+        "Orthopedics",
+        "Emergency Medicine"
+      ],
+      "hasEmergencyUnit": true,
+      "logo": "https://images.unsplash.com/photo-1587351021759-3e566b6af7cc?auto=format&fit=crop&w=600&q=80",
+      "latitude": 13.3379,
+      "longitude": 77.101,
+      "createdAt": "2026-01-24T11:00:00Z"
+    },
+    {
+      "id": "hosp-mandya",
+      "role": "hospital",
+      "hospitalName": "Mandya Institute of Medical Sciences (MIMS), Mandya",
+      "email": "contact@mimsmandya.carebridge.org",
+      "contactNumber": "+91 8232 222 086",
+      "address": "Bengaluru-Mysuru Expressway, Mandya, Karnataka 571401",
+      "district": "Mandya",
+      "state": "Karnataka",
+      "registrationDetails": "Government Autonomous Medical Centre | Reg #KA-HOSP-2005-0104",
+      "emergencyHelpline": "+91 8232 231 100",
+      "availableDepartments": [
+        "General Medicine",
+        "Emergency Medicine",
+        "Pediatrics",
+        "Orthopedics",
+        "Gynecology"
+      ],
+      "hasEmergencyUnit": true,
+      "logo": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=600&q=80",
+      "latitude": 12.5273,
+      "longitude": 76.8974,
+      "createdAt": "2026-01-24T14:00:00Z"
+    },
+    {
+      "id": "hosp-aims-bellur",
+      "role": "hospital",
+      "hospitalName": "Adichunchanagiri Institute of Medical Sciences, Bellur",
+      "email": "aims@bgs.carebridge.org",
+      "contactNumber": "+91 8234 287 433",
+      "address": "Balagangadharanatha Nagara, Bellur Cross, Nagamangala Taluk, Mandya, Karnataka 571448",
+      "district": "Mandya",
+      "state": "Karnataka",
+      "registrationDetails": "NABH Accredited Multi-Specialty Centre | Reg #KA-HOSP-1985-2281",
+      "emergencyHelpline": "+91 8234 287 112",
+      "availableDepartments": [
+        "Emergency Medicine",
+        "Cardiology",
+        "Neurology",
+        "Orthopedics",
+        "General Medicine"
+      ],
+      "hasEmergencyUnit": true,
+      "logo": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=600&q=80",
+      "latitude": 12.9814,
+      "longitude": 76.7328,
+      "createdAt": "2026-01-25T08:00:00Z"
+    },
+    {
+      "id": "hosp-5",
+      "role": "hospital",
+      "hospitalName": "Apollo BGS Hospital, Mysuru",
+      "email": "contact@apollobgs-mysore.carebridge.org",
+      "contactNumber": "+91 821 256 8888",
+      "address": "Adhichunchanagiri Road, Kuvempunagar, Mysuru, Karnataka 570023",
+      "district": "Mysuru",
+      "state": "Karnataka",
+      "registrationDetails": "NABH Accredited Tertiary Center | Reg #KA-HOSP-2002-1204",
+      "emergencyHelpline": "+91 821 256 6666",
+      "availableDepartments": [
+        "Cardiology",
+        "Emergency Medicine",
+        "General Medicine",
+        "Orthopedics"
+      ],
+      "hasEmergencyUnit": true,
+      "logo": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=600&q=80",
+      "latitude": 12.2895,
+      "longitude": 76.6276,
+      "createdAt": "2026-01-22T10:00:00Z"
+    },
+    {
+      "id": "hosp-6",
+      "role": "hospital",
+      "hospitalName": "KMC Hospital, Mangaluru",
+      "email": "care@kmc-mangaluru.carebridge.org",
+      "contactNumber": "+91 824 244 5858",
+      "address": "Balmatta Road, Mangaluru, Dakshina Kannada, Karnataka 575001",
+      "district": "Dakshina Kannada",
+      "state": "Karnataka",
+      "registrationDetails": "NABH Accredited Multi-Specialty | Reg #KA-HOSP-1995-4421",
+      "emergencyHelpline": "+91 824 244 4444",
+      "availableDepartments": [
+        "Cardiology",
+        "Pediatrics",
+        "Neurology",
+        "Emergency Medicine"
+      ],
+      "hasEmergencyUnit": true,
+      "logo": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=600&q=80",
+      "latitude": 12.8703,
+      "longitude": 74.8465,
+      "createdAt": "2026-01-25T11:00:00Z"
+    },
+    {
+      "id": "hosp-7",
+      "role": "hospital",
+      "hospitalName": "SDM Narayana Heart Centre, Dharwad",
+      "email": "sdm@narayanahealth.carebridge.org",
+      "contactNumber": "+91 836 247 7777",
+      "address": "Sattur, Hubballi-Dharwad Highway, Dharwad, Karnataka 580009",
+      "district": "Dharwad",
+      "state": "Karnataka",
+      "registrationDetails": "NABH Cardiac Specialty Hospital | Reg #KA-HOSP-2011-7782",
+      "emergencyHelpline": "+91 836 247 9999",
+      "availableDepartments": [
+        "Cardiology",
+        "Cardiac Surgery",
+        "Emergency Medicine"
+      ],
+      "hasEmergencyUnit": true,
+      "logo": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&w=600&q=80",
+      "latitude": 15.3956,
+      "longitude": 75.0745,
+      "createdAt": "2026-02-01T09:00:00Z"
+    }
+  ],
+  "patients": [
+    {
+      "id": "pat-1",
+      "role": "patient",
+      "fullName": "Jeevan SK",
+      "email": "jeevansanju908@gmail.com",
+      "mobile": "+91 98450 12345",
+      "dob": "1998-05-14",
+      "gender": "Male",
+      "bloodGroup": "O+",
+      "address": "42, 4th Main, JP Nagar 3rd Phase, Bengaluru, Karnataka 560078",
+      "avatar": "https://lh3.googleusercontent.com/a/default-user",
+      "emergencyContact": {
+        "name": "Sanju SK",
+        "relationship": "Brother",
+        "phone": "+91 98450 54321"
+      },
+      "hasAcceptedConsent": true,
+      "consentPreferences": {
+        "acceptedAll": true,
+        "personalHealthData": true,
+        "appointmentNotifications": true,
+        "locationAccess": true,
+        "analyticsCookies": true,
+        "acceptedAt": "2026-11-01T10:00:00Z"
+      },
+      "createdAt": "2026-10-15T09:00:00Z",
+      "passwordHash": "password123"
+    },
+    {
+      "id": "pat-2",
+      "role": "patient",
+      "fullName": "Aarav Sharma",
+      "email": "aarav.sharma@example.com",
+      "mobile": "+91 99001 88421",
+      "dob": "1992-08-22",
+      "gender": "Male",
+      "bloodGroup": "B+",
+      "address": "77, Indiranagar 100ft Road, Bengaluru, Karnataka",
+      "avatar": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?auto=format&fit=crop&w=600&q=80",
+      "emergencyContact": {
+        "name": "Neha Sharma",
+        "relationship": "Spouse",
+        "phone": "+91 99001 88422"
+      },
+      "hasAcceptedConsent": true,
+      "createdAt": "2026-10-20T11:00:00Z",
+      "passwordHash": "password123"
+    },
+    {
+      "id": "pat-3",
+      "role": "patient",
+      "fullName": "Lakshmi Narayan",
+      "email": "lakshmi.n@example.com",
+      "mobile": "+91 94480 33219",
+      "dob": "1985-03-19",
+      "gender": "Female",
+      "bloodGroup": "A+",
+      "address": "12, Malleshwaram 8th Cross, Bengaluru, Karnataka",
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=600&q=80",
+      "hasAcceptedConsent": true,
+      "createdAt": "2026-10-28T14:00:00Z",
+      "passwordHash": "password123"
+    },
+    {
+      "id": "pat-1794500391923",
+      "role": "patient",
+      "fullName": "Random User",
+      "email": "random.unauthorized.user@gmail.com",
+      "mobile": "+91 98450 12345",
+      "dob": "1998-05-14",
+      "gender": "Male",
+      "bloodGroup": "O+",
+      "address": "Bengaluru, Karnataka",
+      "avatar": "https://example.com/avatar.jpg",
+      "googleSub": "10998877665544",
+      "isGoogleVerified": true,
+      "hasAcceptedConsent": true,
+      "createdAt": "2026-11-12T16:19:51.923Z",
+      "passwordHash": "google_oauth_verified"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "CB-APT-2026-4495",
+      "patientId": "pat-1",
+      "patientName": "Jeevan Test",
+      "patientPhone": "+91 98450 12345",
+      "patientEmail": "jeevan@example.com",
+      "patientBloodGroup": "O+",
+      "doctorId": "doc-1",
+      "doctorName": "Dr. Rajesh Rao",
+      "doctorSpecialization": "Cardiologist",
+      "doctorAvatar": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=600&q=80",
+      "hospitalId": "hosp-1",
+      "hospitalName": "Apollo Hospital, Bannerghatta",
+      "date": "2026-11-20",
+      "timeSlot": "11:00 AM",
+      "reasonForVisit": "Supabase integration verification test",
+      "additionalNotes": "",
+      "status": "Pending",
+      "consultationFee": 900,
+      "createdAt": "2026-11-10T09:29:47.734Z",
+      "updatedAt": "2026-11-10T09:29:47.734Z"
+    },
+    {
+      "id": "CB-APT-2026-3900",
+      "patientId": "pat-1",
+      "patientName": "Jeevan SK",
+      "patientPhone": "+91 98450 12345",
+      "patientEmail": "jeevansanju908@gmail.com",
+      "patientBloodGroup": "O+",
+      "doctorId": "doc-1",
+      "doctorName": "Dr. Rajesh Rao",
+      "doctorSpecialization": "Cardiologist",
+      "doctorAvatar": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=600&q=80",
+      "hospitalId": "hosp-1",
+      "hospitalName": "Apollo Hospital, Bannerghatta",
+      "date": "2026-11-18",
+      "timeSlot": "10:00 AM",
+      "reasonForVisit": "Routine Clinical Review",
+      "additionalNotes": "",
+      "status": "Approved",
+      "consultationFee": 900,
+      "createdAt": "2026-11-10T09:00:16.652Z",
+      "updatedAt": "2026-11-10T09:01:13.130Z",
+      "hospitalNotes": "Confirmed by Apollo Hospital, Bannerghatta OPD reception. Please arrive 15 minutes before scheduled slot."
+    },
+    {
+      "id": "CB-APT-2026-7058",
+      "patientId": "pat-1",
+      "patientName": "Jeevan SK",
+      "patientPhone": "+91 98450 12345",
+      "patientEmail": "jeevansanju908@gmail.com",
+      "patientBloodGroup": "O+",
+      "doctorId": "doc-15",
+      "doctorName": "Dr. Ashok Varma",
+      "doctorSpecialization": "Orthopedic",
+      "doctorAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=600&q=80",
+      "hospitalId": "hosp-1",
+      "hospitalName": "Apollo Hospital, Bannerghatta",
+      "date": "2026-11-18",
+      "timeSlot": "02:00 PM",
+      "reasonForVisit": "yfftyd",
+      "additionalNotes": "",
+      "status": "Approved",
+      "consultationFee": 950,
+      "createdAt": "2026-11-10T07:48:42.254Z",
+      "updatedAt": "2026-11-10T07:49:06.880Z",
+      "hospitalNotes": "Confirmed by Apollo Hospital, Bannerghatta OPD reception. Please arrive 15 minutes before scheduled slot."
+    },
+    {
+      "id": "CB-APT-2026-1042",
+      "patientId": "pat-1",
+      "patientName": "Jeevan SK",
+      "patientPhone": "+91 98450 12345",
+      "patientEmail": "jeevansanju908@gmail.com",
+      "patientBloodGroup": "O+",
+      "doctorId": "doc-1",
+      "doctorName": "Dr. Rajesh Rao",
+      "doctorSpecialization": "Cardiologist",
+      "doctorAvatar": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=600&q=80",
+      "hospitalId": "hosp-1",
+      "hospitalName": "Apollo Hospital, Bannerghatta",
+      "date": "2026-11-14",
+      "timeSlot": "10:00 AM",
+      "reasonForVisit": "Routine cardiac health review and treadmill stress check",
+      "additionalNotes": "Mild chest heaviness during brisk walking over last week.",
+      "status": "Approved",
+      "consultationFee": 900,
+      "createdAt": "2026-11-05T09:30:00Z",
+      "updatedAt": "2026-11-06T11:00:00Z",
+      "hospitalNotes": "Confirmed by OPD Reception. Fasting blood work recommended prior to visit."
+    },
+    {
+      "id": "CB-APT-2026-1043",
+      "patientId": "pat-1",
+      "patientName": "Jeevan SK",
+      "patientPhone": "+91 98450 12345",
+      "patientEmail": "jeevansanju908@gmail.com",
+      "patientBloodGroup": "O+",
+      "doctorId": "doc-4",
+      "doctorName": "Dr. Sunita Deshmukh",
+      "doctorSpecialization": "Dermatologist",
+      "doctorAvatar": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=600&q=80",
+      "hospitalId": "hosp-3",
+      "hospitalName": "Fortis Hospital, Cunningham Rd",
+      "date": "2026-11-18",
+      "timeSlot": "11:30 AM",
+      "reasonForVisit": "Seasonal allergic skin dermatitis on forearm",
+      "additionalNotes": "Itching flared up after monsoon exposure.",
+      "status": "Pending",
+      "consultationFee": 750,
+      "createdAt": "2026-11-08T15:20:00Z",
+      "updatedAt": "2026-11-08T15:20:00Z"
+    },
+    {
+      "id": "CB-APT-2026-1038",
+      "patientId": "pat-1",
+      "patientName": "Jeevan SK",
+      "patientPhone": "+91 98450 12345",
+      "patientEmail": "jeevansanju908@gmail.com",
+      "patientBloodGroup": "O+",
+      "doctorId": "doc-3",
+      "doctorName": "Dr. Arvind Swamy",
+      "doctorSpecialization": "General Physician",
+      "doctorAvatar": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&w=600&q=80",
+      "hospitalId": "hosp-1",
+      "hospitalName": "Apollo Hospital, Bannerghatta",
+      "date": "2026-10-24",
+      "timeSlot": "11:45 AM",
+      "reasonForVisit": "General Health & Annual Wellness Triage",
+      "additionalNotes": "Completed baseline blood profile and vitals check.",
+      "status": "Completed",
+      "consultationFee": 650,
+      "createdAt": "2026-10-20T10:00:00Z",
+      "updatedAt": "2026-10-24T12:30:00Z",
+      "hospitalNotes": "Patient cleared with normal vitals. Advised hydration and seasonal vaccine."
+    },
+    {
+      "id": "CB-APT-2026-1029",
+      "patientId": "pat-1",
+      "patientName": "Jeevan SK",
+      "patientPhone": "+91 98450 12345",
+      "patientEmail": "jeevansanju908@gmail.com",
+      "patientBloodGroup": "O+",
+      "doctorId": "doc-8",
+      "doctorName": "Dr. Karthik Sunder",
+      "doctorSpecialization": "Dentist",
+      "doctorAvatar": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?auto=format&fit=crop&w=600&q=80",
+      "hospitalId": "hosp-3",
+      "hospitalName": "Fortis Hospital, Cunningham Rd",
+      "date": "2026-10-10",
+      "timeSlot": "03:00 PM",
+      "reasonForVisit": "Dental cleaning and scaling",
+      "additionalNotes": "Cancelled due to travel clash.",
+      "status": "Cancelled",
+      "consultationFee": 550,
+      "createdAt": "2026-10-05T08:15:00Z",
+      "updatedAt": "2026-10-09T14:00:00Z"
+    },
+    {
+      "id": "CB-APT-2026-1050",
+      "patientId": "pat-2",
+      "patientName": "Aarav Sharma",
+      "patientPhone": "+91 99001 88421",
+      "patientEmail": "aarav.sharma@example.com",
+      "patientBloodGroup": "B+",
+      "doctorId": "doc-2",
+      "doctorName": "Dr. Priya Nambiar",
+      "doctorSpecialization": "Neurologist",
+      "doctorAvatar": "https://images.unsplash.com/photo-1594824813680-4966d54d2417?auto=format&fit=crop&w=600&q=80",
+      "hospitalId": "hosp-2",
+      "hospitalName": "Manipal Hospital, Old Airport Rd",
+      "date": "2026-11-15",
+      "timeSlot": "02:30 PM",
+      "reasonForVisit": "Migraine episodes and visual aura assessment",
+      "status": "Approved",
+      "consultationFee": 1000,
+      "createdAt": "2026-11-07T12:00:00Z",
+      "updatedAt": "2026-11-08T09:00:00Z"
+    },
+    {
+      "id": "CB-APT-2026-1051",
+      "patientId": "pat-3",
+      "patientName": "Lakshmi Narayan",
+      "patientPhone": "+91 94480 33219",
+      "patientEmail": "lakshmi.n@example.com",
+      "patientBloodGroup": "A+",
+      "doctorId": "doc-5",
+      "doctorName": "Dr. Vikramaditya Patil",
+      "doctorSpecialization": "Orthopedic",
+      "doctorAvatar": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&w=600&q=80",
+      "hospitalId": "hosp-4",
+      "hospitalName": "Aster CMI Hospital, Hebbal",
+      "date": "2026-11-16",
+      "timeSlot": "11:00 AM",
+      "reasonForVisit": "Knee joint pain after morning jogging",
+      "status": "Pending",
+      "consultationFee": 850,
+      "createdAt": "2026-11-08T16:00:00Z",
+      "updatedAt": "2026-11-08T16:00:00Z"
+    }
+  ],
+  "vitals": [
+    {
+      "id": "vit-1",
+      "patientId": "pat-1",
+      "timestamp": "2026-11-09T18:30:00Z",
+      "heartRate": 72,
+      "oxygenLevel": 98,
+      "temperature": 36.6,
+      "bloodPressureSys": 120,
+      "bloodPressureDia": 80,
+      "recordedBy": "Patient Self-Entry",
+      "notes": "Post-evening walk resting reading. Feeling energized and healthy."
+    },
+    {
+      "id": "vit-2",
+      "patientId": "pat-1",
+      "timestamp": "2026-11-08T08:15:00Z",
+      "heartRate": 70,
+      "oxygenLevel": 99,
+      "temperature": 36.5,
+      "bloodPressureSys": 118,
+      "bloodPressureDia": 78,
+      "recordedBy": "Patient Self-Entry",
+      "notes": "Morning baseline before breakfast."
+    },
+    {
+      "id": "vit-3",
+      "patientId": "pat-1",
+      "timestamp": "2026-11-06T19:00:00Z",
+      "heartRate": 75,
+      "oxygenLevel": 98,
+      "temperature": 36.7,
+      "bloodPressureSys": 122,
+      "bloodPressureDia": 82,
+      "recordedBy": "Patient Self-Entry",
+      "notes": "After mild workout session."
+    },
+    {
+      "id": "vit-4",
+      "patientId": "pat-1",
+      "timestamp": "2026-11-03T10:00:00Z",
+      "heartRate": 74,
+      "oxygenLevel": 97,
+      "temperature": 36.8,
+      "bloodPressureSys": 124,
+      "bloodPressureDia": 81,
+      "recordedBy": "Clinical Triage",
+      "notes": "Clinic triage check during OPD checkup."
+    },
+    {
+      "id": "vit-5",
+      "patientId": "pat-1",
+      "timestamp": "2026-10-24T11:45:00Z",
+      "heartRate": 72,
+      "oxygenLevel": 98,
+      "temperature": 36.6,
+      "bloodPressureSys": 120,
+      "bloodPressureDia": 80,
+      "recordedBy": "Clinical Triage",
+      "notes": "Recorded during annual consultation with Dr. Arvind Swamy."
+    }
+  ],
+  "documents": [
+    {
+      "id": "doc-rec-1",
+      "patientId": "pat-1",
+      "title": "Complete Blood Count & Metabolic Profile",
+      "type": "Blood Report",
+      "doctorName": "Dr. Arvind Swamy",
+      "hospitalName": "Apollo Hospital, Bannerghatta",
+      "date": "2026-10-24",
+      "fileSize": "1.4 MB",
+      "tags": [
+        "CBC",
+        "Hemoglobin",
+        "Lipid Panel",
+        "Normal"
+      ],
+      "summary": "Hemoglobin 14.8 g/dL (Normal). Fasting Glucose 94 mg/dL. Total Cholesterol 182 mg/dL. All parameters within normal adult reference bounds."
+    },
+    {
+      "id": "doc-rec-2",
+      "patientId": "pat-1",
+      "title": "Digital Chest X-Ray PA View",
+      "type": "X-Ray",
+      "doctorName": "Dr. Rajesh Rao",
+      "hospitalName": "Apollo Hospital, Bannerghatta",
+      "date": "2026-10-24",
+      "fileSize": "3.2 MB",
+      "tags": [
+        "Radiology",
+        "Thorax",
+        "Clear"
+      ],
+      "summary": "Normal cardiac size and silhouette. Lung fields clear without active focal consolidation or pleural effusion."
+    },
+    {
+      "id": "doc-rec-3",
+      "patientId": "pat-1",
+      "title": "Cardiology Wellness & Preventive Prescription",
+      "type": "Prescription",
+      "doctorName": "Dr. Rajesh Rao",
+      "hospitalName": "Apollo Hospital, Bannerghatta",
+      "date": "2026-10-24",
+      "fileSize": "820 KB",
+      "tags": [
+        "Prescription",
+        "Cardiology",
+        "Vitamins"
+      ],
+      "summary": "Advised daily 30-minute moderate aerobic exercise, CoQ10 100mg once daily after food, Vitamin D3 60,000 IU monthly."
+    },
+    {
+      "id": "doc-rec-4",
+      "patientId": "pat-1",
+      "title": "Thyroid & Vitamin D3 Lab Analysis",
+      "type": "Lab Report",
+      "doctorName": "Dr. Arvind Swamy",
+      "hospitalName": "Apollo Hospital, Bannerghatta",
+      "date": "2026-09-12",
+      "fileSize": "950 KB",
+      "tags": [
+        "TSH",
+        "Vitamin D",
+        "Endocrine"
+      ],
+      "summary": "TSH: 2.14 mIU/L (Optimal 0.4-4.2). Vitamin D3: 42 ng/mL (Adequate)."
+    }
+  ],
+  "beds": [
+    {
+      "id": "ward-1",
+      "hospitalId": "hosp-1",
+      "wardName": "Cardiac Intensive Care Unit (CICU)",
+      "wardType": "ICU",
+      "totalBeds": 24,
+      "occupiedBeds": 18,
+      "availableBeds": 6,
+      "ventilatorAvailable": 4,
+      "nurseInCharge": "Sr. Sister Philomena D’Souza"
+    },
+    {
+      "id": "ward-2",
+      "hospitalId": "hosp-1",
+      "wardName": "Executive Deluxe Inpatient Wing",
+      "wardType": "General Ward",
+      "totalBeds": 60,
+      "occupiedBeds": 44,
+      "availableBeds": 16,
+      "ventilatorAvailable": 0,
+      "nurseInCharge": "Sr. Sister Rashmi Nair"
+    },
+    {
+      "id": "ward-3",
+      "hospitalId": "hosp-1",
+      "wardName": "High Dependency Oxygen Unit",
+      "wardType": "Oxygen Ward",
+      "totalBeds": 30,
+      "occupiedBeds": 21,
+      "availableBeds": 9,
+      "ventilatorAvailable": 2,
+      "nurseInCharge": "Staff Nurse Ankit Kumar"
+    },
+    {
+      "id": "ward-4",
+      "hospitalId": "hosp-1",
+      "wardName": "Pediatric Care & Neonatal Wing",
+      "wardType": "Pediatric Ward",
+      "totalBeds": 20,
+      "occupiedBeds": 13,
+      "availableBeds": 7,
+      "ventilatorAvailable": 3,
+      "nurseInCharge": "Sr. Sister Kavitha G"
+    },
+    {
+      "id": "ward-5",
+      "hospitalId": "hosp-2",
+      "wardName": "Neuro ICU & Stroke Step-Down",
+      "wardType": "ICU",
+      "totalBeds": 20,
+      "occupiedBeds": 15,
+      "availableBeds": 5,
+      "ventilatorAvailable": 4,
+      "nurseInCharge": "Sr. Mary John"
+    }
+  ],
+  "billing": [
+    {
+      "id": "INV-2026-901",
+      "appointmentId": "CB-APT-2026-1038",
+      "patientId": "pat-1",
+      "patientName": "Jeevan SK",
+      "hospitalId": "hosp-1",
+      "amount": 650,
+      "serviceDescription": "General Physician Comprehensive Outpatient Consultation",
+      "status": "Paid",
+      "date": "2026-10-24",
+      "paymentMethod": "UPI / PhonePe"
+    },
+    {
+      "id": "INV-2026-902",
+      "appointmentId": "CB-APT-2026-1042",
+      "patientId": "pat-1",
+      "patientName": "Jeevan SK",
+      "hospitalId": "hosp-1",
+      "amount": 900,
+      "serviceDescription": "Specialist Cardiology Consultation & ECG review",
+      "status": "Paid",
+      "date": "2026-11-06",
+      "paymentMethod": "Credit Card (Visa)"
+    },
+    {
+      "id": "INV-2026-903",
+      "patientId": "pat-2",
+      "patientName": "Aarav Sharma",
+      "hospitalId": "hosp-2",
+      "amount": 1000,
+      "serviceDescription": "Neurology Clinical Evaluation",
+      "status": "Paid",
+      "date": "2026-11-07",
+      "paymentMethod": "Net Banking"
+    }
+  ],
+  "emergencies": [
+    {
+      "id": "EMG-2026-441",
+      "patientId": "pat-1",
+      "patientName": "Jeevan SK",
+      "patientPhone": "+91 98450 12345",
+      "emergencyType": "Medical Emergency",
+      "severity": "Severe",
+      "locationAddress": "JP Nagar 3rd Phase, Bengaluru, Karnataka 560078",
+      "latitude": 12.9081,
+      "longitude": 77.5925,
+      "status": "Completed",
+      "ambulanceId": "KA-05-EM-4021 (Advanced Life Support)",
+      "driverName": "Manjunath K",
+      "driverPhone": "+91 98455 11223",
+      "assignedHospitalId": "hosp-1",
+      "assignedHospitalName": "Apollo Hospital, Bannerghatta",
+      "estimatedArrivalMinutes": 0,
+      "createdAt": "2026-09-14T14:20:00Z",
+      "notes": "Paramedic triage administered en route. Safely handed over to Apollo ER."
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1794302987735",
+      "recipientId": "pat-1",
+      "recipientRole": "patient",
+      "title": "Appointment Request Submitted",
+      "message": "Your booking with Dr. Rajesh Rao at Apollo Hospital, Bannerghatta is pending hospital confirmation. Ref: CB-APT-2026-4495",
+      "type": "appointment_booked",
+      "isRead": false,
+      "referenceId": "CB-APT-2026-4495",
+      "createdAt": "2026-11-10T09:29:47.734Z"
+    },
+    {
+      "id": "notif-1794302987734",
+      "recipientId": "hosp-1",
+      "recipientRole": "hospital",
+      "title": "New Patient Appointment Booked",
+      "message": "Patient Jeevan Test requested booking with Dr. Rajesh Rao for 2026-11-20 at 11:00 AM.",
+      "type": "appointment_booked",
+      "isRead": false,
+      "referenceId": "CB-APT-2026-4495",
+      "createdAt": "2026-11-10T09:29:47.734Z"
+    },
+    {
+      "id": "notif-1794301273130",
+      "recipientId": "pat-1",
+      "recipientRole": "patient",
+      "title": "Appointment Approved! ✅",
+      "message": "Your appointment with Dr. Rajesh Rao on 2026-11-18 (10:00 AM) has been approved by Apollo Hospital, Bannerghatta.",
+      "type": "appointment_status",
+      "isRead": false,
+      "referenceId": "CB-APT-2026-3900",
+      "createdAt": "2026-11-10T09:01:13.130Z"
+    },
+    {
+      "id": "notif-1794301216653",
+      "recipientId": "pat-1",
+      "recipientRole": "patient",
+      "title": "Appointment Request Submitted",
+      "message": "Your booking with Dr. Rajesh Rao at Apollo Hospital, Bannerghatta is pending hospital confirmation. Ref: CB-APT-2026-3900",
+      "type": "appointment_booked",
+      "isRead": false,
+      "referenceId": "CB-APT-2026-3900",
+      "createdAt": "2026-11-10T09:00:16.652Z"
+    },
+    {
+      "id": "notif-1794301216652",
+      "recipientId": "hosp-1",
+      "recipientRole": "hospital",
+      "title": "New Patient Appointment Booked",
+      "message": "Patient Jeevan SK requested booking with Dr. Rajesh Rao for 2026-11-18 at 10:00 AM.",
+      "type": "appointment_booked",
+      "isRead": false,
+      "referenceId": "CB-APT-2026-3900",
+      "createdAt": "2026-11-10T09:00:16.652Z"
+    },
+    {
+      "id": "notif-1794296946880",
+      "recipientId": "pat-1",
+      "recipientRole": "patient",
+      "title": "Appointment Approved! ✅",
+      "message": "Your appointment with Dr. Ashok Varma on 2026-11-18 (02:00 PM) has been approved by Apollo Hospital, Bannerghatta.",
+      "type": "appointment_status",
+      "isRead": false,
+      "referenceId": "CB-APT-2026-7058",
+      "createdAt": "2026-11-10T07:49:06.880Z"
+    },
+    {
+      "id": "notif-1794296922256",
+      "recipientId": "pat-1",
+      "recipientRole": "patient",
+      "title": "Appointment Request Submitted",
+      "message": "Your booking with Dr. Ashok Varma at Apollo Hospital, Bannerghatta is pending hospital confirmation. Ref: CB-APT-2026-7058",
+      "type": "appointment_booked",
+      "isRead": false,
+      "referenceId": "CB-APT-2026-7058",
+      "createdAt": "2026-11-10T07:48:42.255Z"
+    },
+    {
+      "id": "notif-1794296922254",
+      "recipientId": "hosp-1",
+      "recipientRole": "hospital",
+      "title": "New Patient Appointment Booked",
+      "message": "Patient Jeevan SK requested booking with Dr. Ashok Varma for 2026-11-18 at 02:00 PM.",
+      "type": "appointment_booked",
+      "isRead": false,
+      "referenceId": "CB-APT-2026-7058",
+      "createdAt": "2026-11-10T07:48:42.255Z"
+    },
+    {
+      "id": "notif-1",
+      "recipientId": "pat-1",
+      "recipientRole": "patient",
+      "title": "Appointment Approved",
+      "message": "Your Cardiology appointment with Dr. Rajesh Rao on 14 Nov 2026 (10:00 AM) is approved.",
+      "type": "appointment_status",
+      "isRead": false,
+      "referenceId": "CB-APT-2026-1042",
+      "createdAt": "2026-11-06T11:00:00Z"
+    },
+    {
+      "id": "notif-2",
+      "recipientId": "pat-1",
+      "recipientRole": "patient",
+      "title": "Booking Pending Confirmation",
+      "message": "Appointment request submitted for Dr. Sunita Deshmukh at Fortis Hospital.",
+      "type": "appointment_booked",
+      "isRead": false,
+      "referenceId": "CB-APT-2026-1043",
+      "createdAt": "2026-11-08T15:20:00Z"
+    },
+    {
+      "id": "notif-3",
+      "recipientId": "pat-1",
+      "recipientRole": "patient",
+      "title": "Health Vitals Logged",
+      "message": "Your recent resting vitals (72 BPM, 98% SpO2) have been recorded to your health chart.",
+      "type": "general",
+      "isRead": true,
+      "createdAt": "2026-11-09T18:30:00Z"
+    },
+    {
+      "id": "notif-4",
+      "recipientId": "hosp-1",
+      "recipientRole": "hospital",
+      "title": "New Patient Appointment Booked",
+      "message": "Patient Jeevan SK booked an appointment with Dr. Rajesh Rao for 14 Nov 2026.",
+      "type": "appointment_booked",
+      "isRead": false,
+      "referenceId": "CB-APT-2026-1042",
+      "createdAt": "2026-11-05T09:30:00Z"
+    },
+    {
+      "id": "notif-5",
+      "recipientId": "hosp-3",
+      "recipientRole": "hospital",
+      "title": "Pending Appointment Request",
+      "message": "Patient Jeevan SK booked an appointment with Dr. Sunita Deshmukh for 18 Nov 2026.",
+      "type": "appointment_booked",
+      "isRead": false,
+      "referenceId": "CB-APT-2026-1043",
+      "createdAt": "2026-11-08T15:20:00Z"
+    }
+  ],
+  "logs": [
+    {
+      "id": "log-1794302987734",
+      "hospitalId": "hosp-1",
+      "action": "Appointment Created",
+      "actor": "Patient: Jeevan Test",
+      "timestamp": "2026-11-10T09:29:47.734Z",
+      "details": "Booking ID CB-APT-2026-4495 registered for Dr. Rajesh Rao."
+    },
+    {
+      "id": "log-1794301273130",
+      "hospitalId": "hosp-1",
+      "action": "Appointment Status changed: Pending -> Approved",
+      "actor": "Hospital Coordinator",
+      "timestamp": "2026-11-10T09:01:13.130Z",
+      "details": "Appointment CB-APT-2026-3900 for Jeevan SK. Note: Confirmed by Apollo Hospital, Bannerghatta OPD reception. Please arrive 15 minutes before scheduled slot."
+    },
+    {
+      "id": "log-1794301216652",
+      "hospitalId": "hosp-1",
+      "action": "Appointment Created",
+      "actor": "Patient: Jeevan SK",
+      "timestamp": "2026-11-10T09:00:16.652Z",
+      "details": "Booking ID CB-APT-2026-3900 registered for Dr. Rajesh Rao."
+    },
+    {
+      "id": "log-1794296946880",
+      "hospitalId": "hosp-1",
+      "action": "Appointment Status changed: Pending -> Approved",
+      "actor": "Hospital Coordinator",
+      "timestamp": "2026-11-10T07:49:06.880Z",
+      "details": "Appointment CB-APT-2026-7058 for Jeevan SK. Note: Confirmed by Apollo Hospital, Bannerghatta OPD reception. Please arrive 15 minutes before scheduled slot."
+    },
+    {
+      "id": "log-1794296922255",
+      "hospitalId": "hosp-1",
+      "action": "Appointment Created",
+      "actor": "Patient: Jeevan SK",
+      "timestamp": "2026-11-10T07:48:42.255Z",
+      "details": "Booking ID CB-APT-2026-7058 registered for Dr. Ashok Varma."
+    },
+    {
+      "id": "log-1",
+      "hospitalId": "hosp-1",
+      "action": "Appointment Approved",
+      "actor": "Reception Admin (Dr. Rajesh OPD)",
+      "timestamp": "2026-11-06T11:00:00Z",
+      "details": "Approved appointment CB-APT-2026-1042 for Jeevan SK."
+    },
+    {
+      "id": "log-2",
+      "hospitalId": "hosp-1",
+      "action": "Doctor Availability Updated",
+      "actor": "Hospital Administrator",
+      "timestamp": "2026-11-05T08:00:00Z",
+      "details": "Updated shift schedule for Dr. Arvind Swamy (General Medicine)."
+    },
+    {
+      "id": "log-3",
+      "hospitalId": "hosp-1",
+      "action": "Bed Allotment Synchronized",
+      "actor": "ICU Coordinator",
+      "timestamp": "2026-11-04T16:45:00Z",
+      "details": "Admitted acute patient to CICU Bed #08. Updated ICU occupancy."
+    }
+  ]
+}

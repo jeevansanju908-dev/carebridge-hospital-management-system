@@ -1,0 +1,6 @@
+{
+  "name": "CareBridge – Advanced Hospital & Patient Management Platform",
+  "description": "Comprehensive healthcare platform connecting patients, doctors, and hospitals with real-time appointments, AI symptom checker, emergency response, and clinical records.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
